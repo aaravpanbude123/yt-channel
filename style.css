@@ -1,0 +1,129 @@
+#map{
+  width: 1000px;
+    margin-left: 70px;
+        
+}
+img{
+    margin-left: 200px;
+    margin-top: 40px; 
+}
+.contact_1 h3{
+    display:contents;
+        margin-left: 200px;
+    margin-top: 1000px; 
+}
+#video{
+    height: 1000px;
+   
+}
+.row::after{
+    content: --;
+    clear: both;
+    display:table-row
+}
+.travel_mainDiv {
+   width: 33.33%;
+    float: left;
+    padding: 5px;
+    border: 1px white;
+}
+
+.travel_mainDiv img{
+    width: 100%;
+    margin-right:800px;
+}
+.travel_mainDiv hr{
+    width: 100%;
+}
+
+travel_mainDiv h5,.travel_mainDiv p{
+    margin-left: 20p
+}
+#school_achievement1{
+    padding-bottom: 10px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: crimson;
+}
+#debate{
+    margin-right: -900px;
+}
+#boring{
+    text-align: right;
+}
+#science{
+left: 900px;
+}
+.What_New_li {
+    margin-top:13px;
+
+}
+
+.What_New_li h4{
+    border-bottom: 1px solid white;
+    padding:8px;
+    
+}
+.What_New_li img{
+    border-radius:25px;
+}
+
+#ps{
+    margin-bottom: 100px;
+    margin-right: 1000px;
+}
+
+
+.environment_li p{
+    margin-top:10px;
+}
+
+
+#principal{
+    margin-right: 100px;
+}
+
+#cipal{
+    margin-left: 230px;
+}
+
+.book{
+    cursor: pointer;
+    
+}
+.book hr{
+    margin-bottom:10px;
+    
+}
+.modal-content{
+    margin-top: 100px;
+}
+
+
+.img_modal{
+    display: inline-block;
+}
+
+
+
+
+
+.p_modal{
+    margin-top:10px;
+    
+}
+.modal-body{
+    text-align: center;
+}
